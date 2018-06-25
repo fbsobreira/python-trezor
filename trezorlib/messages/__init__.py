@@ -119,6 +119,10 @@ from .Ping import Ping
 from .PublicKey import PublicKey
 from .RecoveryDevice import RecoveryDevice
 from .ResetDevice import ResetDevice
+from .RippleAddress import RippleAddress
+from .RippleGetAddress import RippleGetAddress
+from .RippleGetPublicKey import RippleGetPublicKey
+from .RipplePublicKey import RipplePublicKey
 from .SelfTest import SelfTest
 from .SetU2FCounter import SetU2FCounter
 from .SignIdentity import SignIdentity
